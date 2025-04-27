@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"34-04102017-099833";"";
+"REFERENCE";"DP-3k-DN32-C1-T7-Z";"";
+"NOMINAL_PRESSURE";"PN16";"";
+"TraceParts.PartTitle";"DP-3k Flanged ball valve";"";
+"NOMINAL_DIAMETER";"DN32";"";
+"SUPPLIER";"Andrex VALVE GROUP";"";
+"DESIGN";"DP-3k Flanged ball valve";"";
+"TraceParts.InstanceId";"34-04102017-099833C6BHIHHK67TMRBZ27CUR6POPF";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.1";"";

@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-07122020-073649";"";
+"REFERENCE";"AMP.P4 2” C";"";
+"TraceParts.PartTitle";"Clamp Body AMP.P…C";"";
+"din_group";"4";"";
+"SUPPLIER";"AEGI Clamps & AEGI Components";"";
+"DESIGN";"Clamp Body";"";
+"TraceParts.InstanceId";"33-07122020-073649ADN2B0BF3ZCRBOE80U4OJ6WR8";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.2";"";

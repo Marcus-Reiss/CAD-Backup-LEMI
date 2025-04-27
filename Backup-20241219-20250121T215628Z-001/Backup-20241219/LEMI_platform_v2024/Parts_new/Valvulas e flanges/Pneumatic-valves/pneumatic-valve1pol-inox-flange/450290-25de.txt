@@ -1,0 +1,9 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-14092020-064152";"";
+"REFERENCE";"450290-25DE";"";
+"TraceParts.PartTitle";"50290 VANNE À BOULE 3 PIÈCES À BRIDES ISO (58259) AVEC VÉRIN PNEUMATIQUE ALUMINIUM (50800)";"";
+"TraceParts.InstanceId";"10-14092020-064152ELJA1SN6BBZ224D0T9TH54H2A";"";
+"SUPPLIER";"BENE INOX";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"fr";"";

@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"32-20122006-084004";"";
+"REFERENCE";"RB W1 RUL/PA 76.1";"";
+"TraceParts.PartTitle";"Round Steel U-Bolt Clamps with Plastic Saddle (Long), Type RB/RUL";"";
+"TraceParts.InstanceId";"32-20122006-08400414YPOIFALD0FFV2WVWTFV4UUD";"";
+"SUPPLIER";"Walter Stauffenberg GmbH & Co. KG";"";
+"DESIGN";"Round Steel U-Bolt Clamps with Plastic Saddle (Long), Type RB/RUL";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.3";"";

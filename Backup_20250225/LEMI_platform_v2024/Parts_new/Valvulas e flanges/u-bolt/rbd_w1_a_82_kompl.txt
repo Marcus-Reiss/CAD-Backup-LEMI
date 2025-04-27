@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"32-20122006-064216";"";
+"REFERENCE";"RBD W1 A 82 KOMPL";"";
+"STANDARD";"DIN 3570";"";
+"TraceParts.PartTitle";"Round Steel U-Bolt Clamps according to DIN 3570-A, Type RBD";"";
+"TraceParts.InstanceId";"32-20122006-064216DU1DELSZXCOS5R4C737Z791AK";"";
+"SUPPLIER";"Walter Stauffenberg GmbH & Co. KG";"";
+"DESIGN";"Round Steel U-Bolt Clamps according to DIN 3570-A, Type RBD";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.4";"";

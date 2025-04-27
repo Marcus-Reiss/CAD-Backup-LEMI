@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"32-20092006-065937";"";
+"REFERENCE";"219 003 DN = 10";"";
+"TraceParts.PartTitle";"Valves Needle valve · DN 4 - DN 50 pagr 132";"";
+"TraceParts.InstanceId";"32-20092006-065937DNAHR6PXMQU8K1IS3MQG08DQZ";"";
+"SUPPLIER";"RÖTELMANN";"";
+"DESIGN";"Valves Needle valve · DN 4 - DN 50";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.7";"";

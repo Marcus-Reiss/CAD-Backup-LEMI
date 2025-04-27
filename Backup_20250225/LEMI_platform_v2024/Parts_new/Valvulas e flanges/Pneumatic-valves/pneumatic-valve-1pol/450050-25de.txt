@@ -1,0 +1,9 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-14092020-063391";"";
+"REFERENCE";"450050-25DE";"";
+"TraceParts.PartTitle";"50050 VANNE À BOULE 2 PIÈCES F/F (58308) AVEC VÉRIN PNEUMATIQUE ALUMINIUM (50800)";"";
+"TraceParts.InstanceId";"10-14092020-0633917U6NQREVVDWI1N6I10H9L9FQF";"";
+"SUPPLIER";"BENE INOX";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"fr";"";

@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-25092008-105625";"";
+"DESIGN";"Manequim sentado, tamanho 1,76 m";"";
+"STANDARD";"ISO 15536-1";"";
+"TraceParts.PartTitle";"Manequim sentado - Tamanho 1,76 m";"";
+"TraceParts.InstanceId";"10-25092008-105625161PE21YUOSIYREYITKYAQOPI";"";
+"TraceParts.PartStandardAcronym";"ISO";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.PartVersion";"1.2.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"br";"";
+"TraceParts.ClassPath";"ISO:10-25092008-105625";"";

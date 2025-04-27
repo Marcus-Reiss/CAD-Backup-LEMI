@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-14092020-068620";"";
+"REFERENCE";"458919-2523";"";
+"TraceParts.PartTitle";"58919 SOUPAPE DE SÛRETÉ PN40 À SOUFFLET ET ÉCHAPPEMENT CANALISÉ POUR LIQUIDES ET GAZ";"";
+"TraceParts.InstanceId";"10-14092020-0686204RCK405UKMI5S479MJHLDYLG5";"";
+"TraceParts.PartLanguage";"fr";"";
+"SUPPLIER";"BENE INOX";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"MATERIAL";"Inox 1.4571 - 1.4308";"";

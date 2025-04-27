@@ -1,0 +1,9 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-14092020-063461";"";
+"REFERENCE";"450071-25DE";"";
+"TraceParts.PartTitle";"50071 VANNE À BOULE 3 PIÈCES SW (58191) AVEC VÉRIN PNEUMATIQUE ALUMINIUM (50800)";"";
+"TraceParts.InstanceId";"10-14092020-06346158RGDGH59XIE0GJFY5WA73QOY";"";
+"SUPPLIER";"BENE INOX";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"fr";"";

@@ -1,0 +1,208 @@
+STEP translation to Solid Edge
+Date: quinta-feira,dezembro 06,2018 01:41
+Source File: C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\SDB-C18005-DE-001_0.002 - ARRANJO DO COMPRESSOR - SIMPLIFICADO.STP
+Author: Unknown
+Organization: Unknown
+Source System: HiCAD 2016 2102.1 Build 498
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz
+Operating System: Windows 8 Professional
+Installed Memory: 7.87 GB
+
+Software Information
+Parasolid Version: 28.0.143
+PSBodyShop Version: 28.0.80
+Step Adapter Version: 1.0.820
+Solid Edge Version: 108.00.00.091 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer
+Import Enable Default Output Path: On
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\SDB-C18005-DE-001_0.002 - ARRANJO DO COMPRESSOR - SIMPLIFICADO.asm
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\53.9632.00_Shrinkwrap_1.asm
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Volumenkörper1.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Volumenkörper1_0.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Volumenkörper1_1.par
+|--+Total Parts: 8
+|--+Assemblies: 0
+|--+Solid Bodies: 4
+|--+Sheet Bodies: 4
+|--+End Assembly: 2
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_0.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_0_0.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_0_1.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_0_2.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_0_3.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_0_4.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_0_5.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_0_6.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_1.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_1_0.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_2.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_2_0.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_2_1.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_2_2.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\CUBOID_0.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_3.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_3_0.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_3_1.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_3_2.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_3_3.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_3_4.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\ES6X2TPR.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\ES6X2TPR_0.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\ES6X2TPR_1.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\ES6X2TPR_2.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\AE 1058.500 (1).asm
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\_1058_01_00 (1).par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\_1XXX_01_04.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\_1058_01_01 (1).par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\_1XXX_01_05_1.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\_1XXX_01_05_1_0.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\_1XXX.500_Montageblocke.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\_1XXX_01_04_0.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\_1XXX.500_Montageblocke_0.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\_1XXX_04_05.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\_1058_02_12 (1).par
+|--+Total Parts: 20
+|--+Assemblies: 0
+|--+Solid Bodies: 20
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\724034_VASO DE RECALQUE_50 LITROS_assembly.asm
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_0.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\CYLINDER_0.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_1.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_0_7.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_0_8.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_0_9.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_1_0.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_1_1.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_1_2.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_1_3.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_1_4.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_1_5.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_1_6.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\CUBOID_1.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\CUBOID_1_0.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\CUBOID_1_1.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_1_7.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\CYLINDER_0_0.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\CYLINDER_0_1.par
+|--+Total Parts: 38
+|--+Assemblies: 0
+|--+Solid Bodies: 38
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Sheet metal main part_Sheet Metal.asm
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Sheet flange.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Bend zone.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Sheet flange_0.par
+|--+Total Parts: 6
+|--+Assemblies: 0
+|--+Solid Bodies: 6
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\C-EDGE SWEEP_2.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\C-EDGE SWEEP_3.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\base metálica.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_4.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_3.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_3_0.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_3_1.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_3_2.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_3_3.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_3_4.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\parafuso de elevação_assembly.asm
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_2.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_2_0.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_2_1.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_2_2.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_2_3.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\REVOLVED SOLID_2_4.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_5.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_5_0.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_5_1.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_5_2.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_5_3.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_5_4.par
+|--+Total Parts: 24
+|--+Assemblies: 0
+|--+Solid Bodies: 24
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_6.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_6_0.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_6_1.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_6_2.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\DIN 6912-M6x12-8.8_Cheese-head screw.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\DIN 6912-M6x12-8.8_Cheese-head screw_0.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\DIN 6912-M6x12-8.8_Cheese-head screw_1.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\DIN 6912-M6x12-8.8_Cheese-head screw_2.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\DIN 6912-M6x12-8.8_Cheese-head screw_3.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\DIN 6912-M6x12-8.8_Cheese-head screw_4.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\DIN 6912-M6x12-8.8_Cheese-head screw_5.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\DIN 6912-M6x12-8.8_Cheese-head screw_6.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\DIN 6912-M6x12-8.8_Cheese-head screw_7.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\DIN 6912-M6x12-8.8_Cheese-head screw_8.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\DIN 6912-M6x12-8.8_Cheese-head screw_9.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\DIN 6912-M6x12-8.8_Cheese-head screw_10.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\C-EDGE SWEEP_7.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\C-EDGE SWEEP_8.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\EXTRUDED SOLID_7.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\C-EDGE SWEEP_9.par
+|--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\C-EDGE SWEEP_9_0.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Sheet metal main part_Sheet Metal_0.asm
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Sheet flange_1.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Bend zone_0.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Sheet flange_2.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Bend zone_1.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Sheet flange_3.par
+|--+Total Parts: 10
+|--+Assemblies: 0
+|--+Solid Bodies: 10
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Sheet metal main part_Sheet Metal_1.asm
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Sheet flange_4.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Bend zone_2.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Sheet flange_5.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Bend zone_3.par
+|  |--+Created SE Part File C:\Users\2solve\Google Drive\Produção Mecânica\2017-Running-LEMI\5-Produção Mecânica\28-02-2018\Componentes\Compressor Sauer\Sheet flange_6.par
+|--+Total Parts: 10
+|--+Assemblies: 0
+|--+Solid Bodies: 10
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
++Total Parts: 119
++Assemblies: 7
++Solid Bodies: 112
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 04 : 47
